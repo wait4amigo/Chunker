@@ -1,0 +1,39 @@
+1	1	1	bad	adj	stay away from bad people	远离坏人		joy_xu	joy_xu	joy_xu
+1	1	2	park	n	take a walk in the park	在公园散步		joy_xu	joy_xu	joy_xu
+1	1	3	message	n	leave a message after the beep	在滴声后留言		joy_xu	joy_xu	joy_xu
+1	1	4	seat	n	go back to your seat	回到你的座位上		joy_xu	joy_xu	joy_xu
+1	1	5	call	v	call me back as soon as possible	尽快回我电话		joy_xu	joy_xu	joy_xu
+1	1	6	dry	adj	change into dry clothes	换上干衣服		joy_xu	joy_xu	joy_xu
+1	1	7	visit	v	visit my grandparents on the weekend	周末去看爷爷奶奶（外公外婆）		joy_xu	joy_xu	joy_xu
+1	1	8	juice	n	drink orange juice in the morning	早上喝橙汁		joy_xu	joy_xu	joy_xu
+1	1	9	study	v	study hard to pass the exam	努力学习通过考试		joy_xu	joy_xu	joy_xu
+1	1	10	plan	n	make a plan for tomorrow	为明天做计划		joy_xu	joy_xu	joy_xu									
+2	1	1	degree	n	earn a degree from college	获得大学文凭		joy_xu	joy_xu	joy_xu
+2	1	2	participate	v	participate in charity events	参加慈善活动		joy_xu	joy_xu	joy_xu
+2	1	3	direction	n	have a good sense of direction	方向感很好	有很好的方向感	joy_xu	joy_xu	joy_xu
+2	1	4	apartment	n	live in a small apartment	住在狭小的公寓里		joy_xu	joy_xu	joy_xu
+2	1	5	balance	n	find a balance between work and life	在工作和生活中找到平衡		joy_xu	joy_xu	joy_xu
+2	1	6	interact	v	interact with the audience	和观众互动		joy_xu	joy_xu	joy_xu
+2	1	7	colleagues	n	have lunch with colleagues	和同事一起吃午饭		joy_xu	joy_xu	joy_xu
+2	1	8	announce	v	announce the new company policy	宣布公司的新政策		joy_xu	joy_xu	joy_xu
+2	1	9	comfort	v	comfort the crying baby with candy	用糖果安抚哭泣的宝宝		joy_xu	joy_xu	joy_xu
+2	1	10	discount	v	buy a new computer at a great discount	买一台折扣很低的新电脑		joy_xu	joy_xu	joy_xu						3	1	1	exempt	v	exempt him from military duty	免除他的兵役		joy_xu	joy_xu	joy_xu
+3	1	2	patrol	v	patrol the streets at night	晚上在街上巡逻		joy_xu	joy_xu	joy_xu
+3	1	3	deficiency	n	suffer from a nutritional deficiency	营养不良		joy_xu	joy_xu	joy_xu
+3	1	4	havoc	n	watch the tornado wreak havoc on the town	眼看着龙卷风摧毁小镇		joy_xu	joy_xu	joy_xu
+3	1	5	annihilate	v	annihilate her opponent in the singing competition	在唱歌比赛中大胜对手		joy_xu	joy_xu	joy_xu
+3	1	6	costume	n	wear a colorful costume in the play	在演出中穿了一件彩色戏服		joy_xu	joy_xu	joy_xu
+3	1	7	aggravate	v	aggravate him with many questions	问很多问题惹恼了他		joy_xu	joy_xu	joy_xu
+3	1	8	warrior	n	fight as a great warrior in battle	在战争中顽强战斗	在战争中像战士一样战斗	joy_xu	joy_xu	joy_xu
+3	1	9	consent	n	give consent to have the surgery	同意做手术		joy_xu	joy_xu	joy_xu
+3	1	10	siege	n	prevent the siege of the capital city	阻止首都被占领		joy_xu	joy_xu	joy_xu						
+4	1	1	vindicate	v	try to explain and vindicate himself	试着解释以示清白		joy_xu	joy_xu	joy_xu
+4	1	2	collude	v	collude with his boss in the deal	在交易中与老板勾结		joy_xu	joy_xu	joy_xu
+4	1	3	cataract	n	remove cataract by surgeon	做手术移除白内障		joy_xu	joy_xu	joy_xu
+4	1	4	virulent	adj	can't stand his virulent abuse	无法忍受他的恶语中伤		joy_xu	joy_xu	joy_xu
+4	1	5	sanguine	adj	remain sanguine about the chance of success	仍然看好成功的机率		joy_xu	joy_xu	joy_xu
+4	1	6	retribution	n	make things worse by retribution	实施报复把事情弄得更糟		joy_xu	joy_xu	joy_xu
+4	1	7	trough	n	lift the company out of its current trough	把公司从现在的困境中解救出来		joy_xu	joy_xu	joy_xu
+4	1	8	malignant	adj	receive treatment for malignant tumor	接受恶性肿瘤治疗		joy_xu	joy_xu	joy_xu
+4	1	9	deter	v	deter others from the same crime	防止其他人犯同样的罪		joy_xu	joy_xu	joy_xu
+4	1	10	dissipate	v	dissipate his last hope	泯灭了他最后一丝希望		joy_xu	joy_xu	joy_xu
